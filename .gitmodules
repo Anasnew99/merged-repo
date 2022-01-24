@@ -1,0 +1,6 @@
+[submodule "react-frontend"]
+	path = react-frontend
+	url = https://github.com/Anasnew99/react-frontend
+[submodule "node-backend"]
+	path = node-backend
+	url = https://github.com/Anasnew99/node-backend
